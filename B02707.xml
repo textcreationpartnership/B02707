@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse in praise of St. Andrew, the saint and patron of Scotland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02707</idno>
+            <idno type="STC">Wing D1593AA</idno>
+            <idno type="STC">ESTC R175961</idno>
+            <idno type="EEBO-CITATION">52614615</idno>
+            <idno type="OCLC">ocm 52614615</idno>
+            <idno type="VID">175836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175836)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2752:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse in praise of St. Andrew, the saint and patron of Scotland</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for David Pollock ...,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>c. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; approximate date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: dark, print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Andrew, --  Apostle, Saint --  Biography --  Early works to 1800.</term>
+               <term>Christian patron saints --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175836:1" rendition="simple:additions"/>
+            <head>A Diſcourſe in Praiſe of St. <hi>Andrew,</hi> the Saint and Patron of <hi>Scotland.</hi>
+            </head>
+            <p>IT has been the cuſtom of all Nations from the very firſt Ages of the World to keep Records of the Famous Actions of their Native Country Heroes, to inſert their Names in their moſt Authentick Hiſtories, which relate their Noble Exploits and rare Atchievements, and to erect Monuments on their Graves, to be Monitors and Memorandums to Poſterity, to trace the Footſteps of their Valiant and Magnani<g ref="char:EOLhyphen"/>mous Anceſtors: And this has not been done only by the civilized and moſt refined Na<g ref="char:EOLhyphen"/>tions, but even among the moſt Savage, Rude, and Barbarous People we find Remainders of Honour and Gratitude paid to their Victorious Progenitors; otherwiſe we ſhall never be able to give an account and render a reaſon of theſe rude Monuments yet remaining almoſt in every Nation we travel in: Theſe prodigious heaps of Stones piled up like Py<g ref="char:EOLhyphen"/>ramids, are nothing elſe but the rude Monuments of Kings and famous Generals of thoſe Days, who died nobly in the Bed of Honour in defence of their Native Country.</p>
+            <p>Now if we find ſuch effects of Gratitude and Thankfulneſs naturally implanted in the minds of thoſe Heathen, who had no more Light to conduct them in the Maze and Wil<g ref="char:EOLhyphen"/>derneſs of this World, but ſome faint glimmerings of Light convey'd to 'em through the Crannies of Nature, without the aſſiſtance of Divine Revelations, and Prophets endued with Divine Blaſts from above; let not us Chriſtians, who have all theſe helps afforded to us which they wanted, prove ungrate to our Benefactors; and ſeeing all Chriſtian Na<g ref="char:EOLhyphen"/>tions have their Saints and Patrons who were Inſtruments of planting the Goſpel among them, and that Poſterity may not forget ſo great Benefactors towards them, have ap<g ref="char:EOLhyphen"/>pointed Feſtivals to be kept in Honour of ſuch Holy Devoto's for ever: Let us not be be<g ref="char:EOLhyphen"/>hind others in paying that Tribute of Thanks to the Memory of St. <hi>Andrew</hi> our Patron, one of the firſt that was called by his Lord and Maſter to be a Promulgator of the Goſpel of Peace, being the ſecond Perſon of the Sacred College of the Apoſtles, and had the hard<g ref="char:EOLhyphen"/>eſt and moſt difficult Province aſſign'd to him of all the reſt of his Brethren, if we conſi<g ref="char:EOLhyphen"/>der the vaſt Nations he travelled over, the Rudeneſs and Barbarity of the People, the Op<g ref="char:EOLhyphen"/>poſition of their Prieſts, the Menaces, Threatnings, and Frowns of the Princes and Great Ones of the Earth, threatning the Holy Apoſtle every moment with the moſt bitter and cruel Death imaginable. For,</p>
+            <p>Who but ſuch another as the Holy Apoſtle would have had the Courage and Magnani<g ref="char:EOLhyphen"/>mity to enter <hi>Scythia,</hi> to face thoſe barbed Darts and poyſoned Arrows which had ſtill been a terror to the effeminate <hi>Perſians,</hi> gall'd the <hi>Grecians,</hi> and long vexed the very <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> before they were ſubdued, and obliged to pay Homage to the conquering City? Who would have forced his way thro' the vaſt <hi>Hyr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inian</hi> Forreſt, a Wood of more than a thouſand Miles long, inhabited only by the voracious Generation of Wolves, Bears and Tygers, but St. <hi>Andrew?</hi> Who would have had the confidence to encounter the cruel <hi>Sog<g ref="char:EOLhyphen"/>dians,</hi> the treacherous <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cians,</hi> and pilfering <hi>Arabians,</hi> who have ravaged in a continued Chain of Plunder and Rapine ſince the time of their Father and Founder <hi>Iſhmael,</hi> but ſuch a Saint as St. <hi>Andrew?</hi> But once more, who but one endued with Heavenly Fortitude would have taken his Life in his Hand, and enter the <hi>Taurik Cherſoneſe</hi> (now <hi>Crim Tarta<g ref="char:EOLhyphen"/>ry</hi>) inhabited by a People more cruel and barbarous than any of the former, whoſe con<g ref="char:EOLhyphen"/>ſtant cuſtom was to drink the Blood and ſuck out the Brains of their Enemies, and adorn their Temples with Skulls of the Vanquiſhed.</p>
+            <p>What could our Apoſtle think of thoſe ſigns of Barbarity? what ſtrange thoughts, mor<g ref="char:EOLhyphen"/>mo's and uncouth amuſements would tumble in his Brain at ſuch a hideous proſpect, be<g ref="char:EOLhyphen"/>yond the ſavageneſs of the fierceſt Animals? He could in all probality imagin nothing elſe but that himſelf ſhould be the next Sacrifice of their Cruelty, and his Skull fixed on a Spike in Honour of their Goddeſs <hi>Diana Taurica.</hi> What muſt he do in theſe extraordinary
+<pb n="2" facs="tcp:175836:2"/>and amazing circumſtances? muſt he skulk off, and make the beſt of his way, and get him out among theſe Savages? but that was it he was not acquainted with; he muſt not falſifie his Truſt, and ſtifle his Commiſſion he had received from his Lord and Maſter, which was to preach the Goſpel, and diſſeminate the glad tidings of Salvation to the <hi>Bar<g ref="char:EOLhyphen"/>barian</hi> and <hi>Scythian,</hi> wiſe and unwiſe, bond and free. That ſaying of his Maſter when he was firſt called to be an Apoſtle, <hi>Follow me and I will make you Fiſhers of Men,</hi> was rivetted in his ſoul, and never ſlip'd out of his mind; but fulfilled that ſaying in bringing in many thouſands to the Chriſtian Faith; for he was certainly a Fiſher of Men who catched in his Net vaſt hords of roving <hi>Tartars,</hi> great multitudes of <hi>Sacians,</hi> and mighty Caravans of pil<g ref="char:EOLhyphen"/>fering <hi>Arabians,</hi> ſcouring off the barbarity, and mitigating the ferity of theſe wild People, making their Dagons of Idolatry fall on their faces to the ground to pay Homage to the Son of the Eternal born in <hi>Jury.</hi> The four great Monarchies of the World had made ſome, but fruitleſs Attempts and faint Eſſays to civilize thoſe Barbarians, ſeeing their Banners were only ſet up on the Confines of theſe Nations; but the compleat conqueſt of 'em was left to our Holy Patron, who ſubdued the paſſions, conquer'd the hearts, and captivated the minds of the fierceſt Creatures of all the ſons of <hi>Adam.</hi>
+            </p>
+            <p>Who but the ſoul of the Holy Apoſtle would have ſunk under ſuch innumerable Calami<g ref="char:EOLhyphen"/>ties that ſo faſt trod upon the heels of one another? his Lord and Maſter crucified, his na<g ref="char:EOLhyphen"/>tive Country ſhortly to be over-run by the <hi>Romans,</hi> and their Eagle to pearch on the lof<g ref="char:EOLhyphen"/>tieſt Turrets of the Holy City, his Friends diſcouraged, and black Idolatry now become impudent in the World: All which was enough to diſcourage and exanimate the ſtouteſt Hero and moſt ſtupified stoick imaginable. But all theſe were no Bugbears to him who was proof againſt all the diſaſters this World could preſent unto him, ſeeing he was aſſu<g ref="char:EOLhyphen"/>red that his Redeemer lived, and would plentifully reward him at the latter day.</p>
+            <p>So wandered our Holy Apoſtle up and down his Province, whoſe conſtant Companions were Hunger and Thirſt, Cold and Nakedneſs, with all the other ſorrows and miſeries that accompany this mortal Life, he went about always doing good till the time of his diſ<g ref="char:EOLhyphen"/>ſolution drew near, and the time that he ſhould be offered up approached.</p>
+            <p>And when he finiſhed his courſe, and diſpatched his Commiſſion, he returned from his Northern Proſelites towards the warmer Climate of <hi>Arabia,</hi> where he ended his miſera<g ref="char:EOLhyphen"/>ble and tedious Life; For <hi>Ægeas</hi> the Proconſul of that Province laid hold on him, and Crucified him; O how glad was he of theſe Tydings, how acceptable was this News to him that he ſhould mount the upper Regions on the Ladder of the Croſs, certainly Old <hi>Jacob's</hi> heart was not more extended with Gladneſs when he ſaw his Son <hi>Joſeph,</hi> than the Apoſtle's was with joy to ſee the Sign of that which had been the chief deſign of his Tra<g ref="char:EOLhyphen"/>vels, and the principal Theam of his Orations. O, how did his Soul leap within him for joy that he was honoured to die after this manner! Now he was ſure with the end of his days to obtain the end of his Faith, even the Salvation of his Soul.</p>
+            <p>Now let out thoughts go along with him, to the place of Execution, and ſuppoſe our ſelves poſted in the Ring of his Diſciples and Proſelites, ſtanding round the Croſs, and hearing our bleſſed Patron Preach his farewel Sermon to them in theſe words. O bleſſed and happy Plants of the Chriſtian Faith. O pleaſant Bloſſoms of the Infant Church. O my exceeding great Joy and Crown, my Darling and loving Babes, whom I have Begot, in Chriſt Jeſus through the Goſpel.</p>
+            <p>You know my beloved Children, that after many hazardous Journies and great Toils, I have at laſt Arrived in this City, and gained many Souls to Chriſt in it: But the Go<g ref="char:EOLhyphen"/>vernour <hi>Ægeas,</hi> who ſhould have been a good Example to others, has rejected the Goſpel, and ſtopped its Progreſs very much: But I bleſs God, thro' our Lord Jeſus Chriſt, That notwithſtanding his Malice and Cruelty, I ſee ſo many Witneſſes of my Death, ſo many Ambaſſadours behind me, to water thoſe Barren Places I have Planted.</p>
+            <p>Therefore, my Dear Children, be ſtedfaſt in the Doctrine which you have heard from me, which indeed is not mine, but his who is the Author and Father of all things, it's his whoſe mercy knows no limits, who had Compaſſion on the deplorable Condition of the
+<pb n="3" facs="tcp:175836:2"/>Sons of <hi>Adam,</hi> whom the <hi>Old Sepent</hi> has endeavoured to Circumvent from the Beginning: But our heavenly Father to put check to this <hi>Old Deceiver,</hi> has ſent beloved Son in<g ref="char:EOLhyphen"/>to the World to deſtroy the works of the <hi>Devil,</hi> and to reſcue his Children out of the thick miſt of Darkneſs, and bring them into his marvellous light, to reſcue them from the precipices of Deſtruction and confines of Hell, into the heavenly <hi>Canaan,</hi> to the place of the Spirits of juſt men made perfect.</p>
+            <p>Wherefore return, never any more to abominable Idolatry, which has bewitched the minds of Men for ſo many Ages; but believe and truſt in the everliving God, Father, Son, and Holy Ghoſt, the eternal and uncreated Trinity, for God is one and three, who is great without quantity, whoſe will is his power, who governs all things without trou<g ref="char:EOLhyphen"/>ble, and there is nothing that can in the leaſt diſturb the order of his univerſal Empire, who is always communicating and doing good to his Creatures without wearineſs; ſo that we need no inferior Mediators to carry our Petitions into the Court of Heaven, after the manner of the Heathen, but let all your requeſts be put up to your omniſcient Creator, who will hear your Prayers and grant your Petitions by the infinite Merits of his Son.</p>
+            <p>Don't Grieve and Lament, becauſe I am fixed to this Croſs; for this Tree is to me <hi>the Tree of Life,</hi> a Plank of Safety in the Shipwrack of Sinners;<note place="margin">In hoc ſigno Vinces.</note> 'tis a Trophy which our Saviour has erected over his Vanquiſhed Enemies, in this you ſhall overcome, Triumph, and to Valiantly, in after Ages Kings and Emperors ſhall glory to have the Sign of it for their Banners; and ſhall rejoyce to Fight under the Standard of the Holy Jeſus.</p>
+            <p>Laſtly, Dear Children, let not the Allurements of this World entice you, nor Honours, Pleaſures, and Preferment enſnare you, nor the moſt horrid Inſtruments of Torture af<g ref="char:EOLhyphen"/>fright you, to run out of the right Road of a Holy Life: But when the moſt diſmal Cala<g ref="char:EOLhyphen"/>mities ſhall aſſault you, have recourſe to our Bleſſed Redeemer, look back to his Croſs and Bitter Paſſion which he patiently endured, and all to ſave us from Eternal Woe and Miſery.</p>
+            <p>Theſe and ſuch like Exhortations, you may ſuppoſe, the Holy Apoſtle uttered to his mourning Diſciples from the Theatre of the Croſs: I hàve given you this Abſtract of a very long Sermon, (the longeſt that ever was Preached,) a Sermon of Three Days (for ſo long he lived on the Tree) and ſpent all the time in Exhorting and In<g ref="char:EOLhyphen"/>ſtructing his Proſelites, to adher to the word of Truth he had delivered to them, a<g ref="char:EOLhyphen"/>midſt all the Temptations, Miſeries, Calamities, and Perſecutions they ſhould be truſt<g ref="char:EOLhyphen"/>ed with for the ſake of the Goſpel, O what rare Emblems are wrapt up in this Circum<g ref="char:EOLhyphen"/>ſtance of the Apoſtles Preaching Three Days on the Croſs: He was Three Days fixed to his Croſs, to Sympathiſe with his Maſter, who continued Three Days in the Grave un<g ref="char:EOLhyphen"/>der the power of Death: He was Three Days Tormented on the Tree, becauſe his Lord was ſo long Chained with the Fetters of Mortality: He Three Days out-braved and dared all the Cruelty and Malice of his Enemies, becauſe his Redeemer ſo long a time was triumphing over Death, Hell, and the Grave. He preached Three Days from the Theatre of the Croſs, to ſignifie to his Diſciples, that the Church ſhould groan under cruel Perſecution for Three Hundred Years.</p>
+            <p>O Happy! yea, Thrice Happy People of <hi>Edeſſa,</hi> who had the Honour to Hear this Mirrour of Love and Patience make his Will, and Harrangue ſo long from the Excrucia<g ref="char:EOLhyphen"/>ting and Tormenting Pulpit. The <hi>Edeſſeaens</hi> were not the only Spectators of this Specta<g ref="char:EOLhyphen"/>cle; but the Holy Angels were Hovering over him in the Air, and greatly rejoycing to ſee him do ſo valiantly; altho' his Diſciples were Weeping and Mourning, the Heaven<g ref="char:EOLhyphen"/>ly Coire was Singing an Anthem, which continued till his Soul was lodged in a ſtate of Joy and Bliſs; now he had Fought a Fight and Finiſhed his courſe, and diſpatched the Commiſſion he was intruſted with, and wafted above the Stars in a croud of Bleſſed Spi<g ref="char:EOLhyphen"/>rits, to receive that Crown which his Maſter had prepared for him, and not for him on<g ref="char:EOLhyphen"/>ly, but for all thoſe that love his appearing.</p>
+            <p>Now my dear Country-men I have given you this ſhort Account of our Holy Patron, to the end we may imitate him in all Piety and Virtue, to follow his Steps in a continu<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:175836:3" rendition="simple:additions"/>chain of Patience and Long-ſuffering, with an unwearied diligence in being good our ſelves, and performing all good Offices to others, in extending our Charity not only to uphold the outward Shell of the frail Bodies of Men, but to have a true and brotherly Compaſſion for their Souls by our good Example, Holy Life, Seaſonable Admonitions, and frequent Inſtructions; weaning them from all worldly Luſts; and ſo we ſhall have the honour of being Inſtruments of ſaving Souls, and reſcuing them from the coaſts of eternal Ruin.</p>
+            <p>And the only way to put us in mind of theſe things, is to preſerve the Memory of Holy Men; and the way to preſerve their Memories, is to commemorate them; on theſe Solemn Times the Church in all Ages has thought fit to ſet apart for the Com<g ref="char:EOLhyphen"/>memoration of the Piety and Suffering of good Men, to ſtir up others to imitate them in their good Works and holy Lives.</p>
+            <p>There is certainly a Civility in Humane Nature, which will not ſuffer men to wrong the Dead, eſpecially thoſe who have been Good and Virtuous; for as bad as the Phariſees were, and they certainly were as bad as we can imagine, yet they built Monuments and ſet up Tombs on the Graves of the Prophets, whom their Fathers had Slain and Butcher<g ref="char:EOLhyphen"/>ed, and proteſted, if they had lived in thoſe Days, they would not have been guilty of ſuch horrid Cruelty, and baſe Ingratitude, and Inhumanity to the Men of God; it is true, the beſt of Men in this World have the luck to be ill Treated and baſely Handled while among us in this World of Pride, Malice, and Emulation; but when removed from us, then we lament the want of 'em, and are anxious for want of their Society and Fellowſhip, which was little regarded when preſent, but very much valued, when we can't recover it. So that Virtue is ſtill moſt eſteemed, and Piety moſt regarded at a diſtance, but when preſent, it's deſpiſed and rejected, becauſe the perſons where it lodges are fallible like our ſelves. But what ever thoughts the World may have of Good Men and their Actions, the Pſalmiſt has told us that the Righteous ſhall be in everlaſting remembrance, and how can they be in remembrance, except we ſet apart ſome time to commemorate their Virtuous Actions, our Saviour's preſence at the Feaſt of the Dedication, altho' not appointed by God, but the Jews themſelves is warrant enough for us to keep Feſtivals in memory of Good and Holy Men, in order to imitate them.</p>
+            <p>Is it not very ſtrange to ſee ſome people ſo Inhumane and Ungrate to the memory of the Saints, that they will ſcarce be ſo kind to them as the great <hi>Ceſar</hi> was to his Horſe, who cauſed him to be Buried and Interred out of a pure humour of Gratitude, to ſave his Carcaſs from Dogs and Ravens, becauſe the Beaſt had done him good Service, and ſa<g ref="char:EOLhyphen"/>ved his Life many times in the Wars.</p>
+            <p>Now ſeeing every Nation have their Patron, to whom they pay a grateful reſpect to the memory of their Aſhes, let us not be behind with them in Commemorating the holy Apoſtle St. <hi>Andrew,</hi> let not <hi>France</hi> boaſt of their St. <hi>Dennis,</hi> the <hi>Ruſſians</hi> of St. <hi>Nicholas,</hi> the <hi>Norwegians</hi> of <hi>Ula,</hi> or St. <hi>William,</hi> while we can glory of St. <hi>Andrew,</hi> a part of whoſe remains, <hi>viz.</hi> his Arm is Interred in our Kingdom, brought thither (as the Story goes) by one of his Diſciples St. <hi>Regulus</hi> of <hi>Rule,</hi> and Buried at St. <hi>Andrews,</hi> which City retains the Name of the Saint to this very day; ſo that though our Kingdom lieth in a Cold Cli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> towards the North-pole, yet it is no ſmall Honour and great cauſe of Glorying, that ſome of thè remains of ſo great an Apoſtle, and one of the moſt renowned Saints, is Buried in the Heart of our Antient Kingdom, ſo as with our Crown for its Antiquity, ſo with our Religion and Patron, we can contend and compare with our Neighbour Nations, if we have not the better of the moſt of 'em. Therefore all I ſhall ſay more on this subject, is this, that we ought in all gratitude to Commemorate this Saint on this day, which the Church in all Ages aſſigned for his Feſtival, not that any reſpect we pay to his Memory, can add the leaſt thing to his Glory, who is now in full Joy and perfect Bliſs, but only to ſhew our ſelves grateful and to make us better, by following his Example and excellent Pattern.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin:</hi> Printed for <hi>David Pollock,</hi> next door to the Sign of the <hi>London</hi> in <hi>D<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'s-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
